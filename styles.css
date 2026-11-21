@@ -1,0 +1,18 @@
+body {
+font-family:'Times New Roman', Times, serif;
+background-color: rgb(194, 125, 41) ;
+margin:0;
+text-align: center;
+}
+
+header {
+background-color: rgb(168, 67, 67);
+color: aliceblue;
+padding: 20px;
+
+}
+
+nav{
+    background-color: blueviolet;
+    padding: 15px;
+}
